@@ -24,6 +24,9 @@ sign-up.html: Allows new users to register by providing necessary details.
 
 # Requirements
 Python
+
 Flask
+
 Flask-SQLAlchemy
+
 flask-login
